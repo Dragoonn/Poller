@@ -11,6 +11,7 @@ Clone this repository:
 ```bash
 git clone https://github.com/Dragoonn/Poller.git
 cd Poller
+pnpm install
 pnpm dev
 ```
 or download the zip file and extract it.
